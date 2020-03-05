@@ -1,2 +1,3 @@
 # node2020
-Aprendiendo Git y creando repositorios
+## Aprendiendo Git y Github con amigos
+Este es un repo de aprendizaje
